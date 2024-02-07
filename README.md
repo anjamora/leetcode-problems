@@ -8,33 +8,8 @@ The purpose of this repository is to maintain and improve my coding skills while
 
 ## Structure
 
-- Each problem is stored in its own Python file named according to the problem number and title.
+- Each problem is stored in its own Python file named according to the problem title.
 - The solutions are coded in Python for easy readability and understanding.
-- Problem statements are included as comments at the beginning of each file for quick reference.
-
-## Usage
-
-1. Clone the repository to your local machine:
-
-```
-git clone https://github.com/your-username/leetcode-python.git
-```
-
-2. Navigate to the repository directory:
-
-```
-cd leetcode-python
-```
-
-3. Browse through the files to find the problem you're interested in.
-
-4. Open the Python file corresponding to the problem to view the solution.
-
-5. Run the Python file using your preferred Python interpreter to test the solution.
-
-## Contributing
-
-Contributions are welcome! If you have a new solution to a problem or an improvement to an existing one, feel free to open a pull request.
 
 ## About LeetCode
 
